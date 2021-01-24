@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "708460347486",
+    "firebase_url": "https://ttrail-1.firebaseio.com",
+    "project_id": "ttrail-1",
+    "storage_bucket": "ttrail-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708460347486:android:e1699dad1efb2b8d65b4cf",
+        "android_client_info": {
+          "package_name": "com.bunny_eyes.Trailtales"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708460347486-ceq3g26h040fa3cou37tmqn7sc6liid8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3Pi5iPTaEkp49W9pmHQPmg-BimVqG8Rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708460347486-ceq3g26h040fa3cou37tmqn7sc6liid8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708460347486:android:27d368f7405a622d65b4cf",
+        "android_client_info": {
+          "package_name": "com.example.Trailtales"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708460347486-ceq3g26h040fa3cou37tmqn7sc6liid8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3Pi5iPTaEkp49W9pmHQPmg-BimVqG8Rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708460347486-ceq3g26h040fa3cou37tmqn7sc6liid8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
